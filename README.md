@@ -1,7 +1,10 @@
 instalar mlx42 codam --- https://github.com/codam-coding-college/MLX42
 
 cd MLX42
+
+
 cmake -B build
+
 cmake --build build
 
 compilar con ->
